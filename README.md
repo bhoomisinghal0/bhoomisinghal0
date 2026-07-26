@@ -24,4 +24,4 @@
 
 
 ## Github Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomisinghal0&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-two-gold-45.vercel.app/api?username=bhoomisinghal0&show_icons=true&theme=tokyonight)
